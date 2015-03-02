@@ -9,6 +9,8 @@ uphinx = **u**(buntu) + **ph**(p) + (ng)**inx**
 
 index.php in the Web folder just displays `phpinfo();` it is of course a place holder and can be removed/overwritten.
 
+`config.yaml` can be appended with other packages you may want to use.
+
 ### Requirements
 
 Install [Vagrant](http://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
