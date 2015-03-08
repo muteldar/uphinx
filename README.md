@@ -18,6 +18,6 @@ Install [Vagrant](http://www.vagrantup.com) and [VirtualBox](https://www.virtual
 ### How to use
 
 1. Clone this repo
-2. Add youre site(index.php) and whatever needed to the web directory
+2. Add your site(index.php) and whatever needed to the web directory
 3. Vagrant up
 4. Hit localhost:8080 to see your site.
