@@ -2,3 +2,4 @@
 packages:
   # add new packages here if needed
   - htop
+  - git
