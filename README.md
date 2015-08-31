@@ -13,7 +13,8 @@ index.php in the Web folder just displays `phpinfo();` it is of course a place h
 
 ### Requirements
 
-Install [Vagrant](http://www.vagrantup.com) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [Vagrant](http://www.vagrantup.com)
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 ### How to use
 
